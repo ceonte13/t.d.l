@@ -1,0 +1,20 @@
+html body{
+    color: blueviolet;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+h1{
+    color: yellow;
+    font-weight: 200;
+}
+
+body{
+    background-color: blue;
+}
+
+
+P{
+    color: yellow;
+}
